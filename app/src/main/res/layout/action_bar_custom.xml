@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <androidx.appcompat.widget.AppCompatTextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/tvTitle"
+        android:gravity="center"
+        android:text="Movies Finder"
+        android:textStyle="bold"
+        android:fontFamily="monospace"
+        android:textColor="#2196F3"
+        style="@style/TextAppearance.AppCompat.Widget.ActionBar.Title"/>
+
+</LinearLayout>

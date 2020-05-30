@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Movies Finder</string>
+    <string name="title">Exit App!</string>
+    <string name="message">Are You Sure ?</string>
+    <string name="yes">YES</string>
+    <string name="no">NO</string>
+</resources>
